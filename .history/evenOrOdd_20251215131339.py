@@ -1,0 +1,1 @@
+number= input("Enter the 1st ")

@@ -1,0 +1,4 @@
+def fibo():
+
+
+number= 

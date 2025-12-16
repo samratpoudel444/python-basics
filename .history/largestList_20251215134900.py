@@ -1,0 +1,8 @@
+number= [2,10,5,55,20,100]
+
+highest= num[1]
+for num in number
+    if(num > highest)
+        highest = num
+
+print("the highest no is: "highest)

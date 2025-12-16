@@ -1,0 +1,3 @@
+num= input("Enter a Number")
+
+for i in range(num)

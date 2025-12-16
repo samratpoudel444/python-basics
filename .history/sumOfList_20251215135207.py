@@ -1,0 +1,3 @@
+number= int(input("enter the no of Element"))
+
+f
