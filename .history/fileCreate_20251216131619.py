@@ -1,0 +1,1 @@
+file= open("example.txt","hello I am writing the file in the system to make system more better")

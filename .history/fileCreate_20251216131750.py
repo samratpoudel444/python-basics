@@ -1,0 +1,2 @@
+file= open("example.txt","w") as file
+file.write("hello I am samrat poudel. Actually I am writing this code for making the system more better and I am determined to write new thigs again and again")
